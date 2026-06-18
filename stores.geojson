@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-17T20:04:36.973151Z",
+    "generated_at": "2026-06-18T20:14:48.578469Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 488
+    "count": 489
   },
   "features": [
     {
@@ -2985,6 +2985,27 @@
         "postcode": "5097",
         "phone": "08 8490 8773",
         "is24x7": true,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4262417,
+          -42.887812
+        ]
+      },
+      "properties": {
+        "store_id": "3010",
+        "name": "Glebe Hill",
+        "suburb": "Howrah, Hobart",
+        "state": "TAS",
+        "address": "9-13 Commerce Drive, Glebe Hill",
+        "postcode": "7018",
+        "phone": "",
+        "is24x7": false,
         "drive_thru": true
       }
     },
