@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-21T19:20:34.499719Z",
+    "generated_at": "2026-06-22T19:19:56.455617Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 489
+    "count": 490
   },
   "features": [
     {
@@ -2732,6 +2732,27 @@
         "address": "1a Johnstone Road",
         "postcode": "2320",
         "phone": "02 40863902",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0832269,
+          -35.189536
+        ]
+      },
+      "properties": {
+        "store_id": "5709",
+        "name": "Nicholls",
+        "suburb": "Nicholls",
+        "state": "ACT",
+        "address": "34-38 O?Hanlon Place",
+        "postcode": "2913",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
@@ -5891,6 +5912,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.0178054,
+          -27.3653027
+        ]
+      },
+      "properties": {
+        "store_id": "3685",
+        "name": "Aspley East",
+        "suburb": "Aspley",
+        "state": "QLD",
+        "address": "1289 Gympie Road",
+        "postcode": "4034",
+        "phone": "35060297",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           133.879595,
           -23.693468
         ]
@@ -8087,27 +8129,6 @@
         "address": "34 Ararat Road",
         "postcode": "3380",
         "phone": "",
-        "is24x7": false,
-        "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.755604,
-          -36.140847
-        ]
-      },
-      "properties": {
-        "store_id": "8347",
-        "name": "Echuca",
-        "suburb": "Echuca",
-        "state": "VIC",
-        "address": "161-168 Ogilvie Ave",
-        "postcode": "3564",
-        "phone": "5412 6222",
         "is24x7": false,
         "drive_thru": true
       }
