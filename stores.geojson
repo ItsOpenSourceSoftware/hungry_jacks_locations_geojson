@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-22T19:19:56.455617Z",
+    "generated_at": "2026-06-23T19:06:10.002746Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 490
+    "count": 491
   },
   "features": [
     {
@@ -5168,6 +5168,27 @@
         "address": "2105 Sandgate Road",
         "postcode": "4034",
         "phone": "07 37414988",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.755604,
+          -36.140847
+        ]
+      },
+      "properties": {
+        "store_id": "5433",
+        "name": "Echuca",
+        "suburb": "Echuca",
+        "state": "VIC",
+        "address": "161-168 Ogilvie Ave",
+        "postcode": "3564",
+        "phone": "4439 5960",
         "is24x7": false,
         "drive_thru": true
       }
