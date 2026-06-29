@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-28T19:07:21.471913Z",
+    "generated_at": "2026-06-29T19:00:12.698022Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 491
+    "count": 492
   },
   "features": [
     {
@@ -2669,6 +2669,27 @@
         "address": "3-5 Marshall Road Off Leach Highway",
         "postcode": "6154",
         "phone": "08 61845632",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.241,
+          -36.8097
+        ]
+      },
+      "properties": {
+        "store_id": "5434",
+        "name": "Kangaroo Flat",
+        "suburb": "Kangaroo Flat",
+        "state": "VIC",
+        "address": "Lansell Square, Shop FS1 267 High Street, Calder Hwy",
+        "postcode": "3555",
+        "phone": "5447 2495",
         "is24x7": false,
         "drive_thru": true
       }
