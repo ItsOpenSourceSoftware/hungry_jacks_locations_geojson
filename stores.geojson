@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-06-29T19:00:12.698022Z",
+    "generated_at": "2026-06-30T18:51:36.189078Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 492
+    "count": 490
   },
   "features": [
     {
@@ -1691,27 +1691,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.241,
-          -36.8097
-        ]
-      },
-      "properties": {
-        "store_id": "9308",
-        "name": "Kangaroo Flat",
-        "suburb": "Bendigo",
-        "state": "VIC",
-        "address": "Lansell Plaza Shopping Centre Calder Hwy",
-        "postcode": "3550",
-        "phone": "03 5447 3777",
-        "is24x7": false,
-        "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           153.092247,
           -26.655578
         ]
@@ -2753,27 +2732,6 @@
         "address": "1a Johnstone Road",
         "postcode": "2320",
         "phone": "02 40863902",
-        "is24x7": false,
-        "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.0832269,
-          -35.189536
-        ]
-      },
-      "properties": {
-        "store_id": "5709",
-        "name": "Nicholls",
-        "suburb": "Nicholls",
-        "state": "ACT",
-        "address": "34-38 O?Hanlon Place",
-        "postcode": "2913",
-        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
