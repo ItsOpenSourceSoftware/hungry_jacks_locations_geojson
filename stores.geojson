@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-03T19:07:29.695394Z",
+    "generated_at": "2026-07-06T19:46:10.753260Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 490
+    "count": 489
   },
   "features": [
     {
@@ -674,27 +674,6 @@
         "address": "1340 Hume Highway",
         "postcode": "3064",
         "phone": "03 87230133",
-        "is24x7": false,
-        "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.3166983,
-          -36.7049856
-        ]
-      },
-      "properties": {
-        "store_id": "8359",
-        "name": "Epsom",
-        "suburb": "Epsom",
-        "state": "VIC",
-        "address": "176-180 Midland Highway",
-        "postcode": "3551",
-        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
