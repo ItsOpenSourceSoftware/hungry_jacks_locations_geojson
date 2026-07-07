@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-06T19:46:10.753260Z",
+    "generated_at": "2026-07-07T18:56:21.769762Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 489
+    "count": 490
   },
   "features": [
     {
@@ -4832,6 +4832,27 @@
         "address": "3 Groves Avenue",
         "postcode": "2756",
         "phone": "",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3166983,
+          -36.7049856
+        ]
+      },
+      "properties": {
+        "store_id": "5435",
+        "name": "Epsom",
+        "suburb": "Epsom",
+        "state": "",
+        "address": "176-180 Midland Highway",
+        "postcode": "3551",
+        "phone": "4420 4430",
         "is24x7": false,
         "drive_thru": true
       }
