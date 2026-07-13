@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-11T18:50:59.908593Z",
+    "generated_at": "2026-07-13T20:08:02.909675Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 490
+    "count": 489
   },
   "features": [
     {
@@ -191,27 +191,6 @@
         "address": "7350 Gt Eastern Hwy",
         "postcode": "6073",
         "phone": "08 64940215",
-        "is24x7": false,
-        "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.266568,
-          -36.766657
-        ]
-      },
-      "properties": {
-        "store_id": "8302",
-        "name": "Bendigo",
-        "suburb": "Bendigo",
-        "state": "VIC",
-        "address": "218 High Street Golden Square",
-        "postcode": "3550",
-        "phone": "03 5441 3666",
         "is24x7": false,
         "drive_thru": true
       }
