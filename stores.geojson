@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-16T19:21:51.523189Z",
+    "generated_at": "2026-07-17T18:57:07.293560Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 488
+    "count": 490
   },
   "features": [
     {
@@ -5954,6 +5954,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          152.9936108,
+          -26.9198643
+        ]
+      },
+      "properties": {
+        "store_id": "8525",
+        "name": "Glasshouse North",
+        "suburb": "Glass House Mountains",
+        "state": "QLD",
+        "address": "4249 Bruce Highway",
+        "postcode": "4518",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           151.106184,
           -34.022495
         ]
@@ -9265,6 +9286,27 @@
         "phone": "",
         "is24x7": false,
         "drive_thru": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2121293,
+          -27.672336
+        ]
+      },
+      "properties": {
+        "store_id": "3678",
+        "name": "Cornubia",
+        "suburb": "Cornubia",
+        "state": "QLD",
+        "address": "125-129 Bromley St",
+        "postcode": "4130",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
       }
     },
     {
