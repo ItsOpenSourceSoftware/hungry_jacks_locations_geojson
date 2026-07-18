@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-17T18:57:07.293560Z",
+    "generated_at": "2026-07-18T18:53:03.246291Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 490
+    "count": 489
   },
   "features": [
     {
@@ -5965,7 +5965,7 @@
         "state": "QLD",
         "address": "4249 Bruce Highway",
         "postcode": "4518",
-        "phone": "",
+        "phone": "52488782",
         "is24x7": false,
         "drive_thru": true
       }
@@ -9433,27 +9433,6 @@
         "phone": "02 51429929",
         "is24x7": false,
         "drive_thru": true
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.993559,
-          -26.919938
-        ]
-      },
-      "properties": {
-        "store_id": "3582",
-        "name": "Glasshouse Northbound",
-        "suburb": "Glass House Mountains",
-        "state": "QLD",
-        "address": "4249 Bruce Highway",
-        "postcode": "4519",
-        "phone": "07 5329 4519",
-        "is24x7": false,
-        "drive_thru": false
       }
     },
     {
