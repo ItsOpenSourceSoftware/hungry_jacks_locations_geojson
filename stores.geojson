@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-21T19:07:52.110226Z",
+    "generated_at": "2026-07-22T19:01:42.279958Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 489
+    "count": 490
   },
   "features": [
     {
@@ -820,7 +820,7 @@
         "state": "VIC",
         "address": "218 High Street Golden Square",
         "postcode": "3550",
-        "phone": "5441 3666",
+        "phone": "5406 0786",
         "is24x7": false,
         "drive_thru": true
       }
@@ -2647,7 +2647,7 @@
         "state": "VIC",
         "address": "Lansell Square, Shop FS1 267 High Street, Calder Hwy",
         "postcode": "3555",
-        "phone": "5447 2495",
+        "phone": "5406 0787",
         "is24x7": false,
         "drive_thru": true
       }
@@ -4852,7 +4852,7 @@
         "state": "",
         "address": "176-180 Midland Highway",
         "postcode": "3551",
-        "phone": "4420 4430",
+        "phone": "5406 0785",
         "is24x7": false,
         "drive_thru": true
       }
@@ -8612,6 +8612,27 @@
         "address": "Shop 4 51-73 The Lanes Boulevard",
         "postcode": "4218",
         "phone": "07 56830922",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5962525,
+          -32.7616067
+        ]
+      },
+      "properties": {
+        "store_id": "3354",
+        "name": "East Maitland",
+        "suburb": "East Maitland",
+        "state": "NSW",
+        "address": "Cnr Chelmsford Dr & New England Highway",
+        "postcode": "2323",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
