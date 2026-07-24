@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-23T19:03:20.932559Z",
+    "generated_at": "2026-07-24T20:14:00.695999Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 490
+    "count": 491
   },
   "features": [
     {
@@ -4599,7 +4599,7 @@
         "suburb": "Kippa Ring",
         "state": "QLD",
         "address": "286-290 Anzac Pde",
-        "postcode": "4020",
+        "postcode": "4021",
         "phone": "07 35406979",
         "is24x7": true,
         "drive_thru": true
@@ -6129,9 +6129,9 @@
       "properties": {
         "store_id": "5351",
         "name": "Parkmore",
-        "suburb": "Parkmore",
+        "suburb": "Keysborough",
         "state": "VIC",
-        "address": "Parkmore Shopping Centre",
+        "address": "317 Cheltenham Rd",
         "postcode": "3173",
         "phone": "03 87897904",
         "is24x7": true,
@@ -7330,6 +7330,27 @@
         "state": "QLD",
         "address": "Pimpama District Centre Pimpama-Jacobs Well Rd",
         "postcode": "4209",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3509899,
+          -32.834574
+        ]
+      },
+      "properties": {
+        "store_id": "8452",
+        "name": "Cessnock",
+        "suburb": "Cessnock",
+        "state": "NSW",
+        "address": "157-159 Wollombi Road",
+        "postcode": "2325",
         "phone": "",
         "is24x7": false,
         "drive_thru": true
