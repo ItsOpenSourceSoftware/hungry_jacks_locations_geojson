@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-27T20:16:10.510118Z",
+    "generated_at": "2026-07-28T19:12:44.288552Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 491
   },
@@ -8653,7 +8653,7 @@
         "state": "NSW",
         "address": "Cnr Chelmsford Dr & New England Highway",
         "postcode": "2323",
-        "phone": "",
+        "phone": "4033 0470",
         "is24x7": false,
         "drive_thru": true
       }
@@ -9346,7 +9346,7 @@
         "state": "QLD",
         "address": "125-129 Bromley St",
         "postcode": "4130",
-        "phone": "",
+        "phone": "2810 5723",
         "is24x7": false,
         "drive_thru": true
       }
