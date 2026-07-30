@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-29T19:02:32.916539Z",
+    "generated_at": "2026-07-30T19:14:00.680292Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 491
   },
@@ -6213,7 +6213,7 @@
       "properties": {
         "store_id": "3206",
         "name": "Morphett Vale",
-        "suburb": "Morphette Vale",
+        "suburb": "Morphett Vale",
         "state": "SA",
         "address": "Lot 13 Booth Ave",
         "postcode": "5162",
