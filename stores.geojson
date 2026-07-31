@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-30T19:14:00.680292Z",
+    "generated_at": "2026-07-31T19:13:10.211183Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 491
   },
@@ -8651,7 +8651,7 @@
         "name": "East Maitland",
         "suburb": "East Maitland",
         "state": "NSW",
-        "address": "Cnr Chelmsford Dr & New England Highway",
+        "address": "2E Chelmsford Drive",
         "postcode": "2323",
         "phone": "4033 0470",
         "is24x7": false,
@@ -9344,7 +9344,7 @@
         "name": "Cornubia",
         "suburb": "Cornubia",
         "state": "QLD",
-        "address": "125-129 Bromley St",
+        "address": "248-258 Beenleigh Redland Bay Road",
         "postcode": "4130",
         "phone": "2810 5723",
         "is24x7": false,
