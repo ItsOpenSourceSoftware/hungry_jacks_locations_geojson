@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-07-31T19:13:10.211183Z",
+    "generated_at": "2026-08-01T18:59:30.587587Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 491
+    "count": 492
   },
   "features": [
     {
@@ -4055,6 +4055,27 @@
         "address": "957 Wanneroo Rd",
         "postcode": "6065",
         "phone": "08 9206 3194",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.34944,
+          -32.66754
+        ]
+      },
+      "properties": {
+        "store_id": "3343",
+        "name": "Huntlee",
+        "suburb": "Branxton",
+        "state": "NSW",
+        "address": "Lot 156, 11 Tollbar Avenue",
+        "postcode": "2335",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
