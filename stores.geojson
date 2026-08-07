@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-07T00:36:54.308418Z",
+    "generated_at": "2026-08-07T19:46:35.479553Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 492
   },
@@ -2647,7 +2647,7 @@
         "state": "VIC",
         "address": "Lansell Square, Shop FS1 267 High Street, Calder Hwy",
         "postcode": "3555",
-        "phone": "5406 0787",
+        "phone": "5406 0783",
         "is24x7": false,
         "drive_thru": true
       }
