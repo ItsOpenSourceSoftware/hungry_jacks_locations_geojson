@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-13T18:53:02.660775Z",
+    "generated_at": "2026-08-14T19:42:41.602315Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 492
+    "count": 493
   },
   "features": [
     {
@@ -8402,6 +8402,27 @@
         "address": "Site 5 Northgate Centre",
         "postcode": "2519",
         "phone": "02 53179842",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7313975,
+          -19.3609558
+        ]
+      },
+      "properties": {
+        "store_id": "3670",
+        "name": "Rasmussen",
+        "suburb": "Rasmussen",
+        "state": "QLD",
+        "address": "1199 Riverway Drive",
+        "postcode": "4815",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
