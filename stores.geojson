@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-14T19:42:41.602315Z",
+    "generated_at": "2026-08-15T19:16:26.112698Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 493
+    "count": 494
   },
   "features": [
     {
@@ -758,6 +758,27 @@
         "address": "16 Albert Street",
         "postcode": "6280",
         "phone": "08 61845635",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.12384,
+          -27.81604
+        ]
+      },
+      "properties": {
+        "store_id": "8526",
+        "name": "Yarrabilba",
+        "suburb": "Yarrabilba",
+        "state": "QLD",
+        "address": "15-17 Dixon Court",
+        "postcode": "4207",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
