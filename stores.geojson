@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-17T19:21:48.243383Z",
+    "generated_at": "2026-08-18T19:22:07.691011Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 494
   },
@@ -3482,7 +3482,7 @@
       },
       "properties": {
         "store_id": "3145",
-        "name": "Jindalee",
+        "name": "Jindalee (WA)",
         "suburb": "Jindalee",
         "state": "WA",
         "address": "1378 Marmion Ave",
