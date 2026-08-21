@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-20T19:24:52.916908Z",
+    "generated_at": "2026-08-21T19:20:18.764190Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 494
+    "count": 495
   },
   "features": [
     {
@@ -9578,6 +9578,27 @@
         "address": "31 Geaney Lane",
         "postcode": "4818",
         "phone": "07 44250829",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7933018,
+          -33.9477622
+        ]
+      },
+      "properties": {
+        "store_id": "3330",
+        "name": "Austral",
+        "suburb": "AUSTRAL",
+        "state": "NSW",
+        "address": "Cnr Bringelly Road & Kelly Street",
+        "postcode": "2179",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
