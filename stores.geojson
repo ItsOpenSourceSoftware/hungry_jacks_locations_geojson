@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-08-30T21:46:39.272779Z",
+    "generated_at": "2026-08-31T20:33:10.734034Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 495
   },
@@ -767,8 +767,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.12384,
-          -27.81604
+          153.1238889,
+          -27.8160373
         ]
       },
       "properties": {
