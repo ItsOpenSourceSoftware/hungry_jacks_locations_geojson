@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-03T19:32:51.127885Z",
+    "generated_at": "2026-09-04T20:18:32.388657Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 495
+    "count": 496
   },
   "features": [
     {
@@ -10398,6 +10398,27 @@
         "postcode": "5094",
         "phone": "",
         "is24x7": true,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9474353,
+          -27.5311877
+        ]
+      },
+      "properties": {
+        "store_id": "3671",
+        "name": "Jindalee (QLD)",
+        "suburb": "Jindalee",
+        "state": "QLD",
+        "address": "16 Amazons Place",
+        "postcode": "4074",
+        "phone": "",
+        "is24x7": false,
         "drive_thru": true
       }
     }
