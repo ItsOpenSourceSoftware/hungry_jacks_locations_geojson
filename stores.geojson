@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-08T19:45:10.537581Z",
+    "generated_at": "2026-09-09T21:25:56.775951Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 496
   },
@@ -6738,9 +6738,9 @@
       "properties": {
         "store_id": "3458",
         "name": "Belmont (NSW)",
-        "suburb": "Belmont",
+        "suburb": "Belmont North",
         "state": "NSW",
-        "address": "397 Pacific Hwy",
+        "address": "395 Pacific Hwy",
         "postcode": "2280",
         "phone": "02 4086 4930",
         "is24x7": false,
