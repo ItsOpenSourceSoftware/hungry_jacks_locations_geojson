@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-11T21:29:02.890481Z",
+    "generated_at": "2026-09-14T21:15:15.801684Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 496
   },
@@ -9594,9 +9594,9 @@
       "properties": {
         "store_id": "3330",
         "name": "Austral",
-        "suburb": "AUSTRAL",
+        "suburb": "Austral",
         "state": "NSW",
-        "address": "Cnr Bringelly Road & Kelly Street",
+        "address": "2 Bringelly Road",
         "postcode": "2179",
         "phone": "",
         "is24x7": false,
