@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-18T20:39:11.690000Z",
+    "generated_at": "2026-09-19T19:51:09.560151Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 496
   },
@@ -841,7 +841,7 @@
         "state": "VIC",
         "address": "218 High Street Golden Square",
         "postcode": "3550",
-        "phone": "5406 0786",
+        "phone": "5406 0787",
         "is24x7": false,
         "drive_thru": true
       }
