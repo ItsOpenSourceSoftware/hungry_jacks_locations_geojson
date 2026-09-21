@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-20T20:05:43.700800Z",
+    "generated_at": "2026-09-21T21:31:04.526218Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 496
   },
@@ -8441,7 +8441,7 @@
         "name": "Rasmussen",
         "suburb": "Rasmussen",
         "state": "QLD",
-        "address": "1199 Riverway Drive",
+        "address": "2/ 1199 Riverway Drive",
         "postcode": "4815",
         "phone": "",
         "is24x7": false,
@@ -9388,7 +9388,7 @@
         "state": "WA",
         "address": "(T2) Terminal 2 Landside",
         "postcode": "6105",
-        "phone": "",
+        "phone": "6477 4128",
         "is24x7": false,
         "drive_thru": false
       }
