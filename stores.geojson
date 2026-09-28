@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-09-27T18:49:23.909620Z",
+    "generated_at": "2026-09-28T20:58:47.276767Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 496
   },
@@ -9893,7 +9893,7 @@
         "address": "51-53 Takalvan Street",
         "postcode": "4670",
         "phone": "07 4111 2839",
-        "is24x7": true,
+        "is24x7": false,
         "drive_thru": true
       }
     },
