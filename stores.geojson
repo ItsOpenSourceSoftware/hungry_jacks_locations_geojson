@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-03T19:38:44.130660Z",
+    "generated_at": "2026-10-05T23:32:51.476108Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 496
+    "count": 497
   },
   "features": [
     {
@@ -5085,6 +5085,27 @@
         "postcode": "5048",
         "phone": "",
         "is24x7": true,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5769391,
+          -38.3383895
+        ]
+      },
+      "properties": {
+        "store_id": "5418",
+        "name": "Colac",
+        "suburb": "Colac",
+        "state": "VIC",
+        "address": "378-386 Murray St",
+        "postcode": "3250",
+        "phone": "",
+        "is24x7": false,
         "drive_thru": true
       }
     },
