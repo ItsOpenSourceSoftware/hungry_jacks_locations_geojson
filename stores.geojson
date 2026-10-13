@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-12T20:41:11.129970Z",
+    "generated_at": "2026-10-13T22:08:27.945006Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 497
+    "count": 498
   },
   "features": [
     {
@@ -2732,6 +2732,27 @@
         "address": "1a Johnstone Road",
         "postcode": "2320",
         "phone": "02 40863902",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0832269,
+          -35.189536
+        ]
+      },
+      "properties": {
+        "store_id": "5709",
+        "name": "Nicholls",
+        "suburb": "Nicholls",
+        "state": "ACT",
+        "address": "34-38 O?Hanlon Place",
+        "postcode": "2913",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
