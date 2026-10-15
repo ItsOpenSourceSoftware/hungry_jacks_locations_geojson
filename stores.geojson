@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-13T22:08:27.945006Z",
+    "generated_at": "2026-10-15T19:35:59.090620Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 498
+    "count": 499
   },
   "features": [
     {
@@ -1292,8 +1292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.4949226,
-          -38.0011126
+          144.4973707,
+          -38.0001285
         ]
       },
       "properties": {
@@ -4400,6 +4400,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          153.1089496,
+          -27.4029479
+        ]
+      },
+      "properties": {
+        "store_id": "9501",
+        "name": "Brisbane International Airport",
+        "suburb": "Brisbane Airport",
+        "state": "QLD",
+        "address": "Brisbane International Terminal, 22-28 Lobelia Circle",
+        "postcode": "4008",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.99463,
           -34.476927
         ]
@@ -4862,8 +4883,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.4886723,
-          -38.0033321
+          144.484078,
+          -38.004964
         ]
       },
       "properties": {
