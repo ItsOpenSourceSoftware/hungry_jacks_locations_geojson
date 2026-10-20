@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-19T18:05:43.337758Z",
+    "generated_at": "2026-10-20T21:05:20.770530Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 499
+    "count": 500
   },
   "features": [
     {
@@ -7226,6 +7226,27 @@
         "address": "119-121 Bargara Road",
         "postcode": "4670",
         "phone": "07 4111 2840",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9333405,
+          -12.4377399
+        ]
+      },
+      "properties": {
+        "store_id": "3606",
+        "name": "Berrimah",
+        "suburb": "Berrimah",
+        "state": "NT",
+        "address": "2/45 Julius Street",
+        "postcode": "0820",
+        "phone": "8989 6860",
         "is24x7": false,
         "drive_thru": true
       }
