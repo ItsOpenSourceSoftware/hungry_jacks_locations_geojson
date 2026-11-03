@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-10-30T21:16:47.314719Z",
+    "generated_at": "2026-11-03T00:16:43.944308Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 500
   },
@@ -9554,7 +9554,7 @@
         "name": "Spearwood",
         "suburb": "Spearwood",
         "state": "WA",
-        "address": "Cnr Phoenix Ave & Rockingham Rd",
+        "address": "69 Phoenix Road",
         "postcode": "6163",
         "phone": "08 64993766",
         "is24x7": false,
