@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-03T21:24:07.142225Z",
+    "generated_at": "2026-11-04T22:17:58.819262Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 500
+    "count": 501
   },
   "features": [
     {
@@ -4454,6 +4454,27 @@
         "address": "2/1 Dodswell Way",
         "postcode": "3064",
         "phone": "19977149",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8780816,
+          -34.8080691
+        ]
+      },
+      "properties": {
+        "store_id": "8458",
+        "name": "Yass",
+        "suburb": "Yass",
+        "state": "NSW",
+        "address": "1717 Yass Valley Way",
+        "postcode": "2582",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
