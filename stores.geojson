@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-09T21:14:32.286694Z",
+    "generated_at": "2026-11-10T19:28:25.738042Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
     "count": 501
   },
@@ -5167,7 +5167,7 @@
         "state": "VIC",
         "address": "378-386 Murray St",
         "postcode": "3250",
-        "phone": "",
+        "phone": "5297 1033",
         "is24x7": false,
         "drive_thru": true
       }
