@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-10T19:28:25.738042Z",
+    "generated_at": "2026-11-11T22:24:08.883059Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 501
+    "count": 502
   },
   "features": [
     {
@@ -355,7 +355,7 @@
         "store_id": "3667",
         "name": "Yeppoon",
         "suburb": "Yeppoon",
-        "state": "",
+        "state": "QLD",
         "address": "Yeppoon Road",
         "postcode": "4703",
         "phone": "07 48456976",
@@ -3098,6 +3098,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          151.4762065,
+          -33.0684157
+        ]
+      },
+      "properties": {
+        "store_id": "8479",
+        "name": "M1 Cooranbong Northbound",
+        "suburb": "COORANBONG",
+        "state": "NSW",
+        "address": "266 Newport Road",
+        "postcode": "2265",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           144.655719,
           -37.904042
         ]
@@ -3213,7 +3234,7 @@
         "suburb": "Mt Sheridan",
         "state": "QLD",
         "address": "Cnr Bruce Hwy & Foster Road",
-        "postcode": "4224",
+        "postcode": "4868",
         "phone": "07 42816793",
         "is24x7": false,
         "drive_thru": true
@@ -4954,7 +4975,7 @@
         "store_id": "5435",
         "name": "Epsom",
         "suburb": "Epsom",
-        "state": "",
+        "state": "VIC",
         "address": "176-180 Midland Highway",
         "postcode": "3551",
         "phone": "5406 0785",
@@ -5542,7 +5563,7 @@
         "store_id": "3353",
         "name": "Martin Place",
         "suburb": "Sydney",
-        "state": "",
+        "state": "NSW",
         "address": "53-63 Martin Place",
         "postcode": "2000",
         "phone": "9164 7018",
@@ -5982,8 +6003,8 @@
       "properties": {
         "store_id": "3248",
         "name": "Hendon",
-        "suburb": "SA",
-        "state": "",
+        "suburb": "Hendon",
+        "state": "SA",
         "address": "53-59 Tapleys Hill Road",
         "postcode": "5014",
         "phone": "84483986",
@@ -10267,7 +10288,7 @@
         "store_id": "5417",
         "name": "Chadstone",
         "suburb": "Chadstone",
-        "state": "",
+        "state": "VIC",
         "address": "Shop B349 Chadstone Shopping Centre",
         "postcode": "3148",
         "phone": "99643702",
