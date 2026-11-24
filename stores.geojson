@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-23T22:21:30.360226Z",
+    "generated_at": "2026-11-24T18:31:34.501001Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 502
+    "count": 504
   },
   "features": [
     {
@@ -3236,6 +3236,27 @@
         "address": "Cnr Bruce Hwy & Foster Road",
         "postcode": "4868",
         "phone": "07 42816793",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.93853,
+          -36.04798
+        ]
+      },
+      "properties": {
+        "store_id": "3372",
+        "name": "North Albury",
+        "suburb": "Lavington",
+        "state": "NSW",
+        "address": "375 Wagga Road",
+        "postcode": "2641",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
@@ -6848,6 +6869,27 @@
         "address": "395 Pacific Hwy",
         "postcode": "2280",
         "phone": "02 4086 4930",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.911976,
+          -36.084215
+        ]
+      },
+      "properties": {
+        "store_id": "3371",
+        "name": "Albury",
+        "suburb": "Albury",
+        "state": "NSW",
+        "address": "421 Townsend St",
+        "postcode": "2640",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
