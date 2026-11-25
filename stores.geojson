@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-24T18:31:34.501001Z",
+    "generated_at": "2026-11-25T21:03:56.521931Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 504
+    "count": 505
   },
   "features": [
     {
@@ -1075,6 +1075,27 @@
         "phone": "02 8029 0742",
         "is24x7": true,
         "drive_thru": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.380573,
+          -35.120189
+        ]
+      },
+      "properties": {
+        "store_id": "3370",
+        "name": "Wagga Wagga",
+        "suburb": "Wagga Wagga",
+        "state": "NSW",
+        "address": "Lot 3 Hammond Avenue",
+        "postcode": "2650",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
       }
     },
     {
