@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-25T21:03:56.521931Z",
+    "generated_at": "2026-11-26T22:43:41.296982Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 505
+    "count": 506
   },
   "features": [
     {
@@ -4537,6 +4537,27 @@
         "state": "NSW",
         "address": "1717 Yass Valley Way",
         "postcode": "2582",
+        "phone": "",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.727618,
+          -36.07279
+        ]
+      },
+      "properties": {
+        "store_id": "5439",
+        "name": "Barnawartha",
+        "suburb": "Barnawartha North",
+        "state": "VIC",
+        "address": "1 Murry Valley Hwy",
+        "postcode": "3688",
         "phone": "",
         "is24x7": false,
         "drive_thru": true
