@@ -1,9 +1,9 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated_at": "2026-11-26T22:43:41.296982Z",
+    "generated_at": "2026-11-27T23:07:00.020970Z",
     "source": "https://www.hungryjacks.com.au/api/storelist",
-    "count": 506
+    "count": 507
   },
   "features": [
     {
@@ -4139,6 +4139,27 @@
         "address": "Knox Shopping Centre",
         "postcode": "3152",
         "phone": "03 88284929",
+        "is24x7": false,
+        "drive_thru": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3322119,
+          -35.1374402
+        ]
+      },
+      "properties": {
+        "store_id": "3359",
+        "name": "Glenfield Park",
+        "suburb": "Glenfield Park",
+        "state": "NSW",
+        "address": "1-7 Tanda Place",
+        "postcode": "2650",
+        "phone": "",
         "is24x7": false,
         "drive_thru": true
       }
